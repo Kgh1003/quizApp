@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100%;
+  background-image: linear-gradient(hsla(236, 87%, 91%, 0.8), hsla(248, 94%, 49%, 0.8));
+  font-family: poppins, sans-serif;
+}
